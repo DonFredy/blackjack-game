@@ -1,0 +1,30 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("https://bjc.gamblingzion.com/uploads/2020/09/blackjack-1600x891-1.jpg");
+    background-size: 100;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    color: rgb(251, 242, 242);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(32, 184, 218);
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #09130e;
+    width: 150px;
+    background: rgb(32, 162, 218);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
